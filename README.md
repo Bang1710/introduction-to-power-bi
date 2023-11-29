@@ -18,7 +18,7 @@ Gain a 360° overview of exploring and using Power BI to build impactful reports
   * Tranform before load
   * Field aggregation
 
-## C. Visualzing Data
+## C. Visualizing Data
 
   * Visualization options
   * Making changes
